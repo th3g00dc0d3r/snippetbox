@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/justinas/nosurf"
-	"github.com/th3g00dc0d3r/snipperbox/pkg/models"
+	"github.com/th3g00dc0d3r/snippetbox/pkg/models"
 )
 
 func (app *application) serverError(w http.ResponseWriter, err error) {

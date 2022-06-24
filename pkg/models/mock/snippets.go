@@ -3,7 +3,7 @@ package mock
 import (
 	"time"
 
-	"github.com/th3g00dc0d3r/snipperbox/pkg/models"
+	"github.com/th3g00dc0d3r/snippetbox/pkg/models"
 )
 
 var mockSnippet = &models.Snippet{

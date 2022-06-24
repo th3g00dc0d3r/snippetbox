@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/th3g00dc0d3r/snipperbox/pkg/models"
+	"github.com/th3g00dc0d3r/snippetbox/pkg/models"
 )
 
 func TestUserModelGet(t *testing.T) {
